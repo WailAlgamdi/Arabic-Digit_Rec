@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arabic-Digit_Rec/static/css/main.e6c13ad2.css",
+    "main.js": "/Arabic-Digit_Rec/static/js/main.c67a7219.js",
+    "static/js/453.010c7c11.chunk.js": "/Arabic-Digit_Rec/static/js/453.010c7c11.chunk.js",
+    "index.html": "/Arabic-Digit_Rec/index.html",
+    "main.e6c13ad2.css.map": "/Arabic-Digit_Rec/static/css/main.e6c13ad2.css.map",
+    "main.c67a7219.js.map": "/Arabic-Digit_Rec/static/js/main.c67a7219.js.map",
+    "453.010c7c11.chunk.js.map": "/Arabic-Digit_Rec/static/js/453.010c7c11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c67a7219.js"
+  ]
+}
